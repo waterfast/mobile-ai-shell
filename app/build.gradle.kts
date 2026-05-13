@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "dev.vibecode.mobileagent"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "dev.vibecode.mobileagent"
